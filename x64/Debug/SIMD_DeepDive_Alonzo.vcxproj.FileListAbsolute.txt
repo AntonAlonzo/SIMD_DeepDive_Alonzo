@@ -1,1 +1,2 @@
 C:\Users\ADMIN\Documents\DLSU\3 Junior Year\Term 2\CEPARCO\SIMD\SIMD_DeepDive_Alonzo\x64\Debug\SIMD_DeepDive_Alonzo.exe
+C:\Users\ADMIN\Documents\DLSU\3 Junior Year\Term 2\CEPARCO\SIMD\d\SIMD_DeepDive_Alonzo\x64\Debug\SIMD_DeepDive_Alonzo.exe

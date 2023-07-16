@@ -97,7 +97,7 @@ int main()
 {
 	/* Initialization of variables */
 
-	const size_t VECTOR_SIZE = 1<<20;							/* EDIT HERE: number of elements */
+	const size_t VECTOR_SIZE = 1<<28;							/* EDIT HERE: number of elements */
 	const size_t VECTOR_BYTES = VECTOR_SIZE * sizeof(double);	/* byte size of vector*/
 	const int iter = 30;										/* number of runs */
 	double* X;
