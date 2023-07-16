@@ -2,7 +2,7 @@
 by Jose Anton S. Alonzo | CEPARCO S11
 
 ## Project Specification (from Attempt 1)
-![image](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/imgs/specs.png)
+![image](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/tree/main/imgs/specs.png)
 
 For this project, the input is assumed to be [0, 1, 2, 3, ..., n-1]. Thus, the first five non-zero values of the output are expected to be [21, 28, 35, 42, 49]
 
@@ -23,16 +23,16 @@ https://colab.research.google.com/drive/1zqJSL-JUWQnzbzWs7tM8ADjbBfq9xfyM?usp=sh
 ### Console Output
 
 #### *n = 2^20*
-![image](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/imgs/20_asm.PNG)
-![image](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/imgs/20_cuda.PNG)
+![image](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/tree/main/imgs/20_asm.PNG)
+![image](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/tree/main/imgs/20_cuda.PNG)
 
 #### *n = 2^24*
-![image](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/imgs/24_asm.PNG)
-![image](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/imgs/24_cuda.PNG)
+![image](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/tree/main/imgs/24_asm.PNG)
+![image](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/tree/main/imgs/24_cuda.PNG)
 
 #### *n = 2^28*
-![image](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/imgs/28_asm.PNG)
-![image](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/imgs/28_cuda.PNG)
+![image](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/tree/main/imgs/28_asm.PNG)
+![image](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/tree/main/imgs/28_cuda.PNG)
 
 ## Analysis of Results
 
