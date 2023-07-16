@@ -1,0 +1,3 @@
+﻿  main.c
+main.obj : error LNK2001: unresolved external symbol x86_stencil
+C:\Users\ADMIN\Documents\DLSU\3 Junior Year\Term 2\CEPARCO\SIMD\SIMD_DeepDive_Alonzo\x64\Release\SIMD_DeepDive_Alonzo.exe : fatal error LNK1120: 1 unresolved externals
