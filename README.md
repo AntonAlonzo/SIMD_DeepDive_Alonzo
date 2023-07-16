@@ -2,7 +2,8 @@
 by Jose Anton S. Alonzo | CEPARCO S11
 
 ## Project Specification (from Attempt 1)
-![image](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/tree/main/imgs/specs.png)
+![specs](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/assets/87627127/ce5fc6cf-ed4b-4d3c-a3d3-54dc1bdb19e9)
+![alt specs](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/tree/main/imgs/specs.png)
 
 For this project, the input is assumed to be [0, 1, 2, 3, ..., n-1]. Thus, the first five non-zero values of the output are expected to be [21, 28, 35, 42, 49]
 
@@ -23,16 +24,22 @@ https://colab.research.google.com/drive/1zqJSL-JUWQnzbzWs7tM8ADjbBfq9xfyM?usp=sh
 ### Console Output
 
 #### *n = 2^20*
-![image](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/tree/main/imgs/20_asm.PNG)
-![image](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/tree/main/imgs/20_cuda.PNG)
+![20_asm](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/assets/87627127/88de5ea8-baf9-47a2-8cd3-1a628e9caea1)
+![alt 20asm](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/tree/main/imgs/20_asm.PNG)
+![20_cuda](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/assets/87627127/f7ae8bde-930a-441b-ae94-96f37cce04d9)
+![alt 20cuda](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/tree/main/imgs/20_cuda.PNG)
 
 #### *n = 2^24*
-![image](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/tree/main/imgs/24_asm.PNG)
-![image](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/tree/main/imgs/24_cuda.PNG)
+![24_asm](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/assets/87627127/8d325844-0d15-433e-8b8d-28f28a488238)
+![alt 24asm](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/tree/main/imgs/24_asm.PNG)
+![24_cuda](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/assets/87627127/8cb8a238-8b75-43c9-9851-04ee3067e71c)
+![alt 24cuda](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/tree/main/imgs/24_cuda.PNG)
 
 #### *n = 2^28*
-![image](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/tree/main/imgs/28_asm.PNG)
-![image](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/tree/main/imgs/28_cuda.PNG)
+![28_asm](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/assets/87627127/ffb0e76b-a667-4a2e-9fed-f0199b423064)
+![alt 28asm](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/tree/main/imgs/28_asm.PNG)
+![28_cuda](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/assets/87627127/dff7b3ac-3a78-486a-b3cd-667ac029842a)
+![alt 28cuda](https://github.com/AntonAlonzo/SIMD_DeepDive_Alonzo/tree/main/imgs/28_cuda.PNG)
 
 ## Analysis of Results
 
